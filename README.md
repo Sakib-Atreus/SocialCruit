@@ -13,5 +13,5 @@ Best Practices: Following modern UI/UX principles to create aesthetically pleasi
 To view these designs, clone this repository and import the provided templates into your Elementor workspace on WordPress.
 
 ## Requirements
-WordPress
-Elementor Page Builder
+1. WordPress
+2. Elementor Page Builder
